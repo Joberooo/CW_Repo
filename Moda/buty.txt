@@ -1,0 +1,2 @@
+|Rodzaj obuwia|Rozmiar|Płeć  |Cena|
+|Sandały      |30-45  |Unisex|150 |
