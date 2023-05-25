@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 |Rodzaj obuwia|Rozmiar|Płeć   |Cena|
 |Sandały      |30-45  |Unisex |150 |
 |Mokasyny     |30-45  |Unisex |200 |
@@ -5,3 +6,7 @@
 |Czółenka     |26-32  |Damskie|120 |
 |ButyNajNaj   |10-15  |Man   |100 |
 
+=======
+|Rodzaj obuwia|Rozmiar|Płeć  |Cena|
+|Sandały      |30-45  |Unisex|150 |
+>>>>>>> parent of 7194a36 (Update buty.txt)
