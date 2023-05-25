@@ -4,10 +4,5 @@
 |Mokasyny     |30-45  |Unisex |200 |
 |Adidady      |30-45  |Unisex |350 |
 |Czółenka     |26-32  |Damskie|120 |
-=======
-|Rodzaj obuwia|Rozmiar|Płeć  |Cena|
-|Sandały      |30-45  |Unisex|150 |
-|Mokasyny     |30-45  |Unisex|200 |
-|Adidady      |30-45  |Unisex|350 |
 |ButyNajNaj   |10-15  |Man   |100 |
->>>>>>> 064d23b65d02b8c7bcebab525eae4efd220e1b89
+
