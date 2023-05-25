@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 |Rodzaj obuwia|Rozmiar|Płeć   |Cena|
 |Sandały      |30-45  |Unisex |150 |
 |Mokasyny     |30-45  |Unisex |200 |
