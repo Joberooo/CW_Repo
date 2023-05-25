@@ -1,0 +1,4 @@
+Firma  |Rozmiar|Cena  |Dostępność
+
+Levi's |S-XL   |120 zł|4
+Champin|L      |200 zł|1
