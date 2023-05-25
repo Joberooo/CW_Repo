@@ -2,3 +2,4 @@
 |Sandały      |30-45  |Unisex|150 |
 |Mokasyny     |30-45  |Unisex|200 |
 |Adidady      |30-45  |Unisex|350 |
+|ButyNajNaj   |10-15  |Man   |100 |
